@@ -1,8 +1,6 @@
 # Pytasks - Gerenciador de tarefas #
 ## Em desenvolvimento... ##
 
----
-
 Projeto full-stack com React e FastAPI
 
 # TO-DO: 
