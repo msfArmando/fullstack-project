@@ -5,5 +5,5 @@
 
 Projeto full-stack com React e FastAPI
 
-# TODO: 
+# TO-DO: 
 - Integração com banco de dados [https://www.youtube.com/watch?v=GFGI4QEBsZA] Minuto: 21:19
