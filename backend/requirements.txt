@@ -4,3 +4,5 @@ python-settings
 pydantic-settings
 sqlalchemy
 psycopg2-binary
+psycopg2
+alembic

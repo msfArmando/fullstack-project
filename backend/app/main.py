@@ -1,6 +1,7 @@
 from fastapi import FastAPI
 from http import HTTPStatus
-from app.routers import task
+from .routers import task
+from .models import Task
 
 app = FastAPI()
 
